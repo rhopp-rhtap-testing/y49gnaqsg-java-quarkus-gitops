@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: y49gnaqsg-java-quarkus-repository
+spec:
+  url: https://github.com/rhopp-rhtap-testing/y49gnaqsg-java-quarkus
